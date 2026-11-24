@@ -1,19 +1,9 @@
 {
-  "latestVersionCode": 2,
-  "latestVersionName": "1.1.0",
+  "latestVersionCode": 1,
+  "latestVersionName": "1.0",
   "mandatory": false,
-  "title": "LankaCine v1.1.0 Update",
-  "releaseNotes": "• Improved TV remote playback controls\n• Better BaiscopeWatch English subtitle matching",
-  "downloadUrl": "https://github.com/<your-username>/lankacine-updates/releases/download/v1.1.0/LankaCine-v1.1.0.apk",
-  "notifications": [
-    {
-      "id": "notice_2026_11_24",
-      "title": "New Movies Added!",
-      "message": "Latest 4K UHD releases are now live on Server 1 & Server 2.",
-      "actionUrl": "",
-      "actionLabel": "Open",
-      "enabled": true,
-      "publishedAt": "2026-11-24"
-    }
-  ]
+  "title": "LankaCine Update",
+  "releaseNotes": "• Initial release",
+  "downloadUrl": "https://github.com/<your-username>/lankacine-updates/releases/latest/download/LankaCine-latest.apk",
+  "notifications": []
 }
