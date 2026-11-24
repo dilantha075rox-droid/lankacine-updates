@@ -3,7 +3,17 @@
   "latestVersionName": "1.0",
   "mandatory": false,
   "title": "LankaCine Update",
-  "releaseNotes": "• Initial release",
-  "downloadUrl": "https://github.com/<your-username>/lankacine-updates/releases/latest/download/LankaCine-latest.apk",
-  "notifications": []
+  "releaseNotes": "",
+  "downloadUrl": "https://github.com/dilantha075rox-droid/lankacine-updates/releases/latest/download/LankaCine-latest.apk",
+  "notifications": [
+    {
+      "id": "notice_2026_11_24_1",
+      "title": "New 4K Movies Live!",
+      "message": "Watch the latest releases now with Sinhala & English subtitles.",
+      "actionUrl": "",
+      "actionLabel": "Open",
+      "enabled": true,
+      "publishedAt": "2026-11-24"
+    }
+  ]
 }
