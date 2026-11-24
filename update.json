@@ -1,15 +1,18 @@
 {
-  "latestVersionCode": 2,
-  "latestVersionName": "1.0",
+  "latestVersionCode": 3,
+  "latestVersionName": "2.8",
   "mandatory": false,
-  "title": "LankaCine Update",
+  "title": "LankaCine Critical Update",
   "releaseNotes": "",
   "downloadUrl": "https://github.com/dilantha075rox-droid/lankacine-updates/releases/latest/download/LankaCine-latest.apk",
   "notifications": [
     {
-      "id": "notice_2026_11_24_2",
+      "id": "notice_2026_11_24_3",
       "title": "BUG FIX AND 4K STREAMING ",
-      "message": "Watch the latest releases now with Sinhala & English subtitles.",
+      "message": "Added Google Sign-In & Cloud Sync (Favorites, Watch History & Settings)
+                  - Fixed Android TV remote controls & in-player quality switching
+                  - Improved BaiscopeWatch English subtitle accuracy
+                  - Added in-app Check Updates & notification alerts",
       "actionUrl": "",
       "actionLabel": "Open",
       "enabled": true,
