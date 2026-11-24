@@ -9,10 +9,7 @@
     {
       "id": "notice_2026_11_24_3",
       "title": "BUG FIX AND 4K STREAMING ",
-      "message": "Added Google Sign-In & Cloud Sync (Favorites, Watch History & Settings)
-                  - Fixed Android TV remote controls & in-player quality switching
-                  - Improved BaiscopeWatch English subtitle accuracy
-                  - Added in-app Check Updates & notification alerts",
+      "message": "Added Google Sign-In & Cloud Sync (Favorites, Watch History & Settings),Fixed Android TV remote controls & in-player quality switching,Added in-app Check Updates & notification alerts",
       "actionUrl": "",
       "actionLabel": "Open",
       "enabled": true,
