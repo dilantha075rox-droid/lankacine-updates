@@ -1,6 +1,6 @@
 {
   "latestVersionCode": 2,
-  "latestVersionName": "2.0",
+  "latestVersionName": "1.0",
   "mandatory": false,
   "title": "LankaCine Update",
   "releaseNotes": "",
@@ -8,7 +8,7 @@
   "notifications": [
     {
       "id": "notice_2026_11_24_2",
-      "title": "New Version is alive",
+      "title": "BUG FIX AND 4K STREAMING ",
       "message": "Watch the latest releases now with Sinhala & English subtitles.",
       "actionUrl": "",
       "actionLabel": "Open",
